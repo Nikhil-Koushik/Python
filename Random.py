@@ -1,5 +1,5 @@
 import random
-n=int(input("Enter no.of players:"))
+n=int(input("Enter no.of students:"))
 a=[]
 b=["Truth","Dare"]
 for i in range(0,n):
